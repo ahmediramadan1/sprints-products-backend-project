@@ -1,10 +1,6 @@
 # Sprints Products Backend Project
 
----
-
 ## This project is built using Express and MongoDB
-
----
 
 ## To test the application:
 
