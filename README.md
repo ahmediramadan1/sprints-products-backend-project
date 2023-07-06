@@ -6,6 +6,8 @@
 
 ### (1) Rename .env.example to .env
 
+---
+
 ### (2) Fill in your own values in the environment variables:
 
 ##### (2-1) Add port's number (Use 8000 in .env or change it as Development Variable in step 3)
@@ -20,8 +22,22 @@
 
 ##### (2-6) Add your preferred JWT_COOKIE_EXPIRATION duration integer only
 
-### (3) Import sprints-products-development.postman_environment.json provided in this repo to postman (Port number is set to 8000 so preferably change step 2-1 to 8000)
+---
 
-### (4) Import sprints-products-postman_collection.json provided in this repo to postman
+### (3) Import sprints-products-development.postman_environment.json provided in this repo to Postman (port number is set to 8000 so preferably set step 2-1 to 8000)
 
-### (5) Start Testing!
+---
+
+### (4) Import sprints-products-postman_collection.json provided in this repo to Postman
+
+---
+
+### (5) run ($ npm i) in directory's terminal to install packages
+
+---
+
+### (6) run ($ npm start or nodemon server.js) in directory's terminal to run server
+
+---
+
+### (7) Start Testing using Postman and MongoDB Atlas!
