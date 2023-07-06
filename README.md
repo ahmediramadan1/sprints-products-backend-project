@@ -40,4 +40,4 @@
 
 ---
 
-### (7) Start Testing using Postman and MongoDB Atlas!
+### (7) Start testing using Postman and MongoDB Atlas!
