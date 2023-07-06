@@ -8,4 +8,4 @@
 
 ### 2) Fill in your own values in the environment variables
 
-### 3) Use postman to test the api using {pm.environment.set("jwt", pm.response.json().token);} in tests for both register and login AND Bearer Token authorization for Create, Update and Delete.
+### 3) Import {Sprints-Products.postman_collection.json} provided in this repo to postman and starting testing
